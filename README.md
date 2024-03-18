@@ -12,3 +12,6 @@ This is a test Python tool to extract product data from Ikea website.
    -> Comma separated URL list for all product images
    -> Calculated total Volume of all packaging combined
    -> Calculated total Weight of all packaging combined
+
+**Limitations**
+This tool is designed based on the layout of Ikea Singapore website in 2023. If the layout is different / has changed, some tweak to the coding may be required to function.
